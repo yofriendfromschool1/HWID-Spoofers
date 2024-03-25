@@ -1,0 +1,11 @@
+Hello there everyone, today I will be releasing a trick that a lot of people do not know. Have you ever gotten HWID/MAC Address banned on Roblox before? Well I did, and I am releasing a method that some people will try to sell if I don't release the method.
+This trick is dirt cheap and simple. All you need is Registry Editor on Windows. But why is this the case? Well, let me explain...
+I was reverse engineering the HWID ban system, and I managed to bypass the whole entire ban just by editing registry editor values. As it turns out, Roblox HWID bans will only work if a registry value in roblox-player is set to "InBrowser". That value is known as LaunchExp, which determines if you are launching from Lua App or not. | was HWID banned when I had InBrowser in my registry, and the HWID ban was reverted as soon as I changed it to InApp, I was able to rejoin games again.
+HOW TO DO THIS:
+Step 1: Open Registry Editor
+Step 2: Navigate to the following place in Registry Editor:
+Code:
+Computer \HKEY_CURRENT_USER \SOFTWARE\ROBLOX Corporation\Environments \roblox-player
+Step 3: Once in that directory, look for a string value named LaunchExp. If your Roblox client closes a few seconds after launch, it means you are HWID banned and also using InBrowser for LaunchExp.
+Step 4: Change the value data in LaunchExp from InBrowser to InApp. This will trick the client into thinking you are running in the Roblox Lua App, which essentially mitigates the HWID ban issue.
+GG, that's the method. Enjoy, this method is extremely basic and literally anyone can do this method if they are on Windows.
