@@ -1,0 +1,7 @@
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\bin\Debug\PhantomSolutions.exe.config
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\bin\Debug\PhantomSolutions.exe
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\bin\Debug\PhantomSolutions.pdb
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\obj\Debug\PhantomSolutions.csproj.AssemblyReference.cache
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\obj\Debug\PhantomSolutions.csproj.CoreCompileInputs.cache
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\obj\Debug\PhantomSolutions.exe
+C:\Users\diazc\Downloads\Phantom-Solutions-Perm-Spoofer-main\Phantom-Solutions-Perm-Spoofer-main\PhantomSolutions\obj\Debug\PhantomSolutions.pdb
