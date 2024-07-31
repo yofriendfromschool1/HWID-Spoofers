@@ -1,0 +1,1 @@
+dont reset adapters type n
